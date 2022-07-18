@@ -1,0 +1,102 @@
+[
+	{
+		"id" : 11,
+		"description" : "Soft, stretchy polyester fabric is fast wicking, quick drying and breathable Details:Lap shoulders relax the silhouette",
+		"name" : "Baby sunshade top",
+		"description2" : "Extended roll-down cuffs accommodate growth spurts; drop hem waist provides extra coverage Fabric: 4.3-oz 100% polyester jersey. Recyclable through the Common Threads Recycling Program Weight:(0 g 0 oz)Made in Vietnam.",
+		"imageurl" : "https://images-na.ssl-images-amazon.com/images/I/81TUKtGSIcL._AC_SL1500_.jpg?auto=webp&optimize=high&quality=70&width=1440",
+		"price" : "$20",
+		"date_created" : "2022-07-18 15:26:46.185304",
+		"date_updated" : "2022-07-18 15:26:46.185304"
+	},
+	{
+		"id" : 12,
+		"description" : "This season we've increased the inseam length. Their casual fit, quick-drying water-repellent nylon and elasticized waistband with an internal drawstring remain the same as ever.",
+		"name" : "Baggie shorts",
+		"description2" : "Recyclable through the Common Threads Recycling Program.Details:Quick-drying nylon with a DWR finish Elasticized waistband with internal drawstring; black mesh linerVertical on-seam side pockets for reduced drag in the water",
+		"imageurl" : "https://www.insidehook.com/wp-content/uploads/2021/05/Baggies-Alt-Cover.jpg?resize=1200%2C630",
+		"price" : "$30",
+		"date_created" : "2022-07-18 15:35:32.501457",
+		"date_updated" : "2022-07-18 15:35:32.501457"
+	},
+	{
+		"id" : 13,
+		"description" : "Whenever you're at the junction of water and land, neutralize the sun's unforgiving rays with the wide brim and soft design of our versatile Beach Bucket.",
+		"name" : "Beach bucket",
+		"description2" : "It has a durable, semi-rigid foam bill that is black underneath and casts refreshing 360-degree shade. The 6.8-oz 100% stretch-woven nylon fabric looks and feels like soft canvas, but provides water-shedding",
+		"imageurl" : "https://thumbs.dreamstime.com/b/red-toy-beach-bucket-22566.jpg",
+		"price" : "$15",
+		"date_created" : "2022-07-18 15:59:29.336362",
+		"date_updated" : "2022-07-18 15:59:29.336362"
+	},
+	{
+		"id" : 14,
+		"description" : "June nights camped out in New Mexico's Navajo country are starry and cold. Layer up in the softest fleece we've spun to date.",
+		"name" : "Better sweater jkt",
+		"description2" : " Made from high-performance, sweater-knit polyester fleece, the Better Sweater is warm as wool and technically proficient. The stand-up collar has a zipper garage, and handwarmer pockets keep your fingers cozy.",
+		"imageurl" : "https://m.media-amazon.com/images/I/512ftPOb6dL._SR240,220_.jpg",
+		"price" : "$25",
+		"date_created" : "2022-07-18 16:04:27.432462",
+		"date_updated" : "2022-07-18 16:04:27.432462"
+	},
+	{
+		"id" : 15,
+		"description" : "Go forward where others cringe. Our Borderless Shorts are made for prying into the outer reaches of unnamed terrain. They have a light, breathable fabric that blends 95% nylon",
+		"name" : "Borderless shorts-11 in.",
+		"description2" : "The DWR (durable water repellent) finish shrugs off water; built-in 40-UPF sun protection shades your legs in open country. Other features include a gusseted crotch to preserve mobility, two front pockets you can access while wearing a harness",
+		"imageurl" : "https://cdn.fashiola.in/L92508739/h-m-shorts-nylon-cargo-shorts.jpg",
+		"price" : "$22",
+		"date_created" : "2022-07-18 16:07:40.948418",
+		"date_updated" : "2022-07-18 16:07:40.948418"
+	},
+	{
+		"id" : 16,
+		"description" : "One of summertime's gifts is the chance to freely traverse alpine country. These shorts let you make the most of the season. They're made from a soft, supple",
+		"name" : "Borderless shorts-7 in.",
+		"description2" : "weave of 95% nylon (60% recycled) and 5% spandex mini ripstop to stretch with energetic moves and breathe for a cooling airflow. A gusseted crotch allows a wide range of motion and a partially elastic waist.",
+		"imageurl" : "https://cdn.fashiola.in/L92508739/h-m-shorts-nylon-cargo-shorts.jpg",
+		"price" : "$220",
+		"date_created" : "2022-07-18 16:09:45.089407",
+		"date_updated" : "2022-07-18 16:09:45.089407"
+	},
+	{
+		"id" : 17,
+		"description" : "Besides its shade-casting prowess, the Bucket provides perfect eye cover after an extra-large fish taco fest. It's made from soft, fast-drying 100% nylon",
+		"name" : "Bucket hat",
+		"description2" : "It also rolls into its own inside pocket.Details:Lightweight, fast-drying, easy-care fabricDWR finish sheds rain and ocean spray Crushable, 360-degree brim provides complete sun protection",
+		"imageurl" : "https://eu.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-essential-bucket-hat-s00-hats-and-gloves--M78772_PM2_Front%20view.jpg",
+		"price" : "$345",
+		"date_created" : "2022-07-18 16:13:27.303257",
+		"date_updated" : "2022-07-18 16:13:27.303257"
+	},
+	{
+		"id" : 18,
+		"description" : "Spring skiing is as transient as the wind. Move fast, move light, and still stay dry with our lightest-weight Capilene performance baselayer. These bottoms wick perspiration, breathe, and dry quickly.",
+		"name" : "Cap 1 bottoms",
+		"description2" : "Under a shell, they insulate without overheating. The waistband is brushed for softness, inseams are set forward to prevent chafe, and a gusseted crotch improves mobility. With a functional fly.",
+		"imageurl" : "https://cdn.shopify.com/s/files/1/0536/3594/0515/products/ats-crop-front_600x.jpg?v=1648605777",
+		"price" : "$400",
+		"date_created" : "2022-07-18 16:15:41.787689",
+		"date_updated" : "2022-07-18 16:15:41.787689"
+	},
+	{
+		"id" : 19,
+		"description" : "On bivy or belay, the form-fitting Capilene 1 Boxer Briefs stay dry and comfortable. Made from 100% recycled polyester, the underwear excels at moisture-wicking and has Gladiodor natural odor control for the garment.",
+		"name" : "Cap 1 boxer briefs",
+		"description2" : "Exposed elastic waistband is brushed for softness; the hem is coverstitched for a smooth glide beneath shorts or pants. Fully-functioning fly and supportive front panel keep you covered. 5 1/2 inseam (size M).",
+		"imageurl" : "https://www.duluthtrading.com/dw/image/v2/BBNM_PRD/on/demandware.static/-/Sites-dtc-master-catalog/default/dw1cc0240e/images/large/81319_BLS.jpg?sw=1350&sh=1000&sm=fit",
+		"price" : "$330",
+		"date_created" : "2022-07-18 16:18:06.816735",
+		"date_updated" : "2022-07-18 16:18:06.816735"
+	},
+	{
+		"id" : 20,
+		"description" : "This tee is made from our lightest-weight Capilene fabric to achieve a harmonic balance between technical ability and slacker prowess. Designed for dry, cool comfort and sun protection, it's highly breathable and fast-drying and has a silky feel.",
+		"name" : "Cap 1 graphic t-shirt",
+		"description2" : "With a rib-knit collar that's soft against the skin, raglan sleeves that reduce chafing under packs and a tuckable length. Sublimated graphics won't impede breathability.",
+		"imageurl" : "https://www.themanual.com/wp-content/uploads/sites/9/2021/01/threadless-graphic-tshirt-brand-for-men.jpg?fit=800%2C800&p=1",
+		"price" : "$330",
+		"date_created" : "2022-07-18 16:20:31.723353",
+		"date_updated" : "2022-07-18 16:20:31.723353"
+	}
+]
