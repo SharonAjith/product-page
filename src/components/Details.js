@@ -1,44 +1,27 @@
 import React from 'react';
 
 import './Details.css';
-import {Colors} from "./Colors";
+import Data from '../Data.json'
 class Details extends React.Component{
 
-  state={
-    products: [
-      {
-        "_id": "1",
-        "title": "Women's Top",
-        "src":[
-          "https://picsum.photos/300/400"
-        ],
-        "description": "Womens Blouses and Tops for Work Fashion Casual Summer Short Sleeve Shirts",
-        "price": 23,
-        "colors":[],
-        "count": 1
-      }
-    ],
-  };
-
   render(){
-    const{products}=this.state;
+    const{id}="12";
     
     return(
      <div className="app">
      {
-      products.map(item=>(
-        <div className="details" key={item._id}>
+      Data.map(item=>(
+        <div className="details" id="12">
           <div className="big-img">
-            <img src={item.src[0]} alt=""/>
+            <img src={item.imageurl} alt=""/>
             </div>
 
             <div className="box">
               <div className="row">
-                <h2>{item.title}</h2>
-                <span>${item.price}</span>
+                <h2>{item.name}</h2>
+                <span>₹{item.price}</span>
                 </div>
-                  <Colors colors={item.colors}/>
-                  <p>{item.description}</p>
+                  <p>{item.details}</p>
                     <button className="cart">Add to cart</button>
               </div>
           </div>
